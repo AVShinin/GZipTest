@@ -1,0 +1,5 @@
+D:\C#\UWP\GZipTest\GZipTest\bin\Debug\GZipTest.exe
+D:\C#\UWP\GZipTest\GZipTest\bin\Debug\GZipTest.pdb
+D:\C#\UWP\GZipTest\GZipTest\obj\Debug\GZipTest.exe
+D:\C#\UWP\GZipTest\GZipTest\obj\Debug\GZipTest.pdb
+D:\C#\UWP\GZipTest\GZipTest\bin\Debug\GZipTest.exe.config
